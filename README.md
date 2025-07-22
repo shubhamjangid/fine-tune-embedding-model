@@ -1,4 +1,4 @@
-Domain adaptation on the unlabelled data
+Domain adaptation on the unlabeled data
 
 🧩 Phase 1: Domain Adaptation (Unsupervised)
 	•	Use TSDAE on domain related corpus to make the model understand the domain language and syntax.
